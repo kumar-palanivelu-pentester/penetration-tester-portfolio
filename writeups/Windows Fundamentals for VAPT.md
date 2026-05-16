@@ -52,3 +52,5 @@
 ---
 
 ## 📸 Proof of Work
+![User Enumeration](../assets/net_user.png)
+![System Info](../assets/systeminfo.png)
