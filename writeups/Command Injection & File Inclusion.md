@@ -55,3 +55,8 @@ text
 ---
 
 ## 📸 Proof of Work
+
+
+| Screenshot | Description |
+|------------|-------------|
+| ![Command Injection](https://raw.githubusercontent.com/kumar428/cybersecurity-portfolio/main/assets/command_injection.png) |  Successful command injection via the ping utility input executing `id` and `whoami` |
